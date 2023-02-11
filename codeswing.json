@@ -4,5 +4,6 @@
       "react-dom"
     ],
     "styles": [],
-    "layout": "splitBottom"
+    "layout": "splitBottom",
+    "readmeBehavior": "previewHeader"
   }
