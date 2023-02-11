@@ -18,7 +18,7 @@ This project is intended for you to build a React Typescript project with your p
 The provided VS Code profile will install the required extensions:
 * CodeSwing - for editing main React app file (`App.jsx`) with preview window
 * Live Share - for you and your partner to work on project together
-* Draw.io - to be used to complete wireframe and flow of React acomponents
+* Draw.io - to be used to complete wireframe and flow of React components
 
 
 ## Resources
